@@ -28,7 +28,8 @@ sinnstiftend
 Mitarbeitermotivation
 
 handlungsleitend</back></card>
-<card grp='0' crt='734211'><front>Managementhierarchien</front><back>&lt;b&gt;Top Management (Unternehmensführung)&lt;/b&gt;
+<card grp='0' crt='734211'><front>Managementhierarchien</front><back>
+&lt;b&gt;Top Management (Unternehmensführung)&lt;/b&gt;
 
 erledigt strategische, taktische und operative Aufgaben.
 
@@ -39,13 +40,13 @@ erledigt taktische und operative Aufgaben.
 &lt;b&gt;Unteres Management (Meister, Gruppenleiter)&lt;/b&gt;
 
 erledigt operative Aufgaben</back></card>
-<card grp='0' crt='734211'><front>Matrix-Organisation</front><back>&lt;embed type=&quot;image&quot; source=&quot;pics/MatrixOrganisation.png&quot;/&gt;
+<card grp='0' crt='734211'><front>Matrix-Organisation</front><back>&lt;embed type=&quot;image&quot; src=&quot;pics/MatrixOrganisation.png&quot;/&gt;
 
 Konfliktfelder
 
 Verantwortung
 
-&lt;b&gt;Globale Unternehmen&lt;/b&gt;</back></card>
+Findet vor allem Einsatz bei &lt;b&gt;Globalen Unternehmen&lt;/b&gt;.</back></card>
 <card grp='0' crt='734211' f='1'><front>Sparten-Organisation (Profit Center)</front><back>&lt;embed type=&quot;image&quot; src=&quot;pics/SpartenOrganisation.png&quot;/&gt;
 
 Gliederung nach Objektprinzip (Produkte, Martkregion,...)
@@ -66,12 +67,12 @@ Hohe Anforderung an Teamgeist
 Ineffizienzen schwer zuzuordnen
 
 Vorteilhaft &lt;b&gt;bei homogenem Produktionsprogramm&lt;/b&gt;</back></card>
-<card grp='0' crt='734211'><front>Typen der Aufbauorganisation</front><back>Funktionale Organisation
+<card grp='0' crt='734211'><front>Typen der Aufbauorganisation</front><back>&lt;verbatim&gt;Funktionale Organisation
 
 Spartenorganisation (Profit Center)
 
 Matrix-Organisation</back></card>
-<card grp='0' crt='734211'><front>Unternehmensfunktionen &lt;b&gt;Projekte&lt;/b&gt;</front><back>Forschung &amp; Entwicklung
+<card grp='0' crt='734211'><front>Unternehmensfunktionen &lt;b&gt;Projekte&lt;/b&gt;</front><back>&lt;verbatim&gt;Forschung &amp; Entwicklung
 
 Vertrieb
 
@@ -84,7 +85,7 @@ Personal
 Qualität, Arbeitssicherheit, Umwelt
 
 IT, Operational Excellence</back></card>
-<card grp='0' crt='734211'><front>Unternehmensfunktionen &lt;b&gt;Produkte&lt;/b&gt;</front><back>Forschung &amp; Entwicklung
+<card grp='0' crt='734211'><front>Unternehmensfunktionen &lt;b&gt;Produkte&lt;/b&gt;</front><back>&lt;verbatim&gt;Forschung &amp; Entwicklung
 
 Vertrieb
 
@@ -97,7 +98,7 @@ Personal
 Qualität, Arbeitssicherheit, Umwelt
 
 IT, Operational Excellence</back></card>
-<card grp='0' crt='734211'><front>Organschaftliche Haftung</front><back>Geschäftsführer ist Organ der Gesellschaft
+<card grp='0' crt='734211'><front>Organschaftliche Haftung</front><back>&lt;verbatim&gt;Geschäftsführer ist Organ der Gesellschaft
 
 Geschäftsführer hat &quot;Sorgfalt eines ordentlichen Geschäftsmannes anzuwenden&quot; (§ 43 Abs. 1 GmbHG)
 
@@ -111,36 +112,36 @@ Aufsichtsrat vertritt Arbeitnehmer und Aktionäre. AR beruft Vorstand und kontro
 Hauptversammlung vertritt Aktionäre und ernennt AR.
 
 Organschaftliche Haftung ähnlich zum Vorstand einer GmbH</back></card>
-<card grp='0' crt='734211'><front>Eigenschaften Kapitalgesellschaften</front><back>Gesellschafter haften mit Einlage
+<card grp='0' crt='734211'><front>Eigenschaften Kapitalgesellschaften</front><back>&lt;verbatim&gt;Gesellschafter haften mit Einlage
 
 Gründungskosten 25.000€ (1€ für Mini-GmbH)
 
 Geschäftsführer wird von Gesellschafter(n) einberufen
 
 Geschäftsführer kann (bei Insolvenzen) gegenüber der Gesellschaft haftbar gemacht werden.</back></card>
-<card grp='0' crt='734211'><front>Eigenschaften Personengesellschaften</front><back>Keine Kapitaleinlage
+<card grp='0' crt='734211'><front>Eigenschaften Personengesellschaften</front><back>&lt;verbatim&gt;Keine Kapitaleinlage
 
 Haftung mit Privatvermögen</back></card>
-<card grp='0' crt='734211'><front>Kapitalgesellschaften</front><back>Unternehmergesellschaft (Mini-GmbH)
+<card grp='0' crt='734211'><front>Kapitalgesellschaften</front><back>&lt;verbatim&gt;Unternehmergesellschaft (Mini-GmbH)
 
 GmbH
 
 AG
 
 Konzern</back></card>
-<card grp='0' crt='734211'><front>Personengesellschaften</front><back>GbR
+<card grp='0' crt='734211'><front>Personengesellschaften</front><back>&lt;verbatim&gt;GbR
 
 OHG
 
 KG</back></card>
-<card grp='0' crt='734211'><front>Rechtsformen von Unternehmen</front><back>Einzelunternehmen
+<card grp='0' crt='734211'><front>Rechtsformen von Unternehmen</front><back>&lt;verbatim&gt;Einzelunternehmen
 
 Personengesellschaften
 
 Kapitalgesellschaften
 
 Joint Ventures</back></card>
-<card grp='0' crt='734211'><front>Externe Stakeholder</front><back>Lieferanten
+<card grp='0' crt='734211'><front>Externe Stakeholder</front><back>&lt;verbatim&gt;Lieferanten
 
 Gesellschaft
 
