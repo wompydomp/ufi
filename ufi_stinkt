@@ -156,7 +156,63 @@ Manager
 Eigentümer</back></card>
 </category>
 <category title='UFI_Vorlesung_2'>
-<card grp='0' crt='734211'><front></front><back></back></card>
+<card grp='0' crt='734212'><front>Order Backlog...</front><back>&lt;verbatim&gt;ist der Verkaufswert aller Aufträge, die noch nicht abgerechnet sind, also noch nicht zu den Erlösen beigetragen haben. Der Begriff ist weitestgehend indentisch mit dem Auftragsbestand.&lt;/verbatim&gt;
+
+&lt;embed type=&quot;image&quot; src=&quot;pics/OrderBacklog.png&quot;/&gt;</back></card>
+<card grp='0' crt='734212'><front>Produktivität</front><back>&lt;verbatim&gt;Umsatz/Beschäftigten
+
+Bsp.: 300.000€/Kopf
+
+Stück/Beschäftigten
+
+Bsp.: 1.000 Stück/Kopf
+
+(Personalkosten + Gewinn)/Personalkosten
+
+Bsp.: 1.3-1.8</back></card>
+<card grp='0' crt='734212'><front>NOWC bedeutet...</front><back>&lt;verbatim&gt;...net operating working capital und setzt sich zusammen aus:&lt;/verbatim&gt;
+
+&lt;embed type=&quot;image&quot; src=&quot;pics/NOWC.png&quot;/&gt;</back></card>
+<card grp='0' crt='734212'><front>Cash Flow...</front><back>&lt;verbatim&gt;...zeigt die Veränderung des Bestandes an liquiden Mitteln auf:
+
+Cash Flow = Einzahlungen - Auszahlungen
+
+-&gt; Positive Beeinflussung durch spät erfoglende Auszahlungen (z.B. Rechnungen) und früh eintreffende Einzahlungen (z.B. Kundenanzahlungen).
+
+Meistens bleiben bei der Cash Flow-Berechnung reine Finanzierungsvorgänge (z.B. Kreditaufnahme) außen vor.</back></card>
+<card grp='0' crt='734212'><front>Break-Even-Point</front><back>&lt;embed type=&quot;image&quot; src=&quot;pics/BreakEven.png&quot;/&gt;
+
+&lt;verbatim&gt;1.) Fixkosten + Variable Kosten = Gesamtkosten ermitteln.
+
+-&gt; 2.) Gesamtkosten-Graph einzeichnen
+
+3.) Umsatz-Graph einzeichnen
+
+4.) Schnittpunkt aus Gesamtkosten und Umsatz ergibt den sog. &quot;Break-Even-Point&quot;.
+
+Links von ihm verzeichnet ein Produkt Verluste, rechts davon Gewinne.</back></card>
+<card grp='0' crt='734212'><front>CCM-Methode (completed contract method)</front><back>&lt;verbatim&gt;Der Umsatz wird erst gebucht, wenn der Vertrag oder abgrenzbare Teilleistungen erfüllt sind. Auch dann wird erst das Ergebnis realisiert.</back></card>
+<card grp='0' crt='734212'><front>POC-Methode (percentage of completion method)</front><back>&lt;verbatim&gt;Umsatz und Ergebnis werden dem effektiven Leistungsfortschritt entsprechend realisiert. Ausgewiesener Ertrag entspricht dem Prozentsatz des geschätztden Gesamtertrags eines Projektes.</back></card>
+<card grp='0' crt='734212'><front>Gewährleistungsbürgschaft</front><back>&lt;verbatim&gt;Sichert tatsächlich bestehende oder künftige Ansprüche auf Gewährleistung. Umfaßt alle Mängel.</back></card>
+<card grp='0' crt='734212'><front>Erfüllungs- oder Ausführungsbürgschaft</front><back>&lt;verbatim&gt;Sichert den vertraglichen Anspruch des Auftraggebers auf ordnungsgemäße Ausführung der Leistung. Nur im Umfang der Nichterfüllung bzw. verspäteten Erfüllung dieser Leistung geltend.</back></card>
+<card grp='0' crt='734212'><front>Anzahlungs- oder Vorauszahlungsbürgschaft</front><back>&lt;verbatim&gt;Dient zur Absicherung von An- bzw. Vorauszahlungen. Sichert Anspruch auf Rückzahlung (z.B. für den Fall eines Vertragrücktritts). Sichert keine vom Auftragsnehmer geschuldeten Leistungen.</back></card>
+<card grp='0' crt='734212'><front>Bürgschaftsarten</front><back>&lt;verbatim&gt;Anzahlungs- oder Vorauszahlungsbürgschaft
+
+Erfüllungs- oder Ausführungsbürgschaft
+
+Gewährleistungsbürgschaft</back></card>
+<card grp='0' crt='734212'><front>Auftragsbestand...</front><back>&lt;verbatim&gt;...gibt Vorschau für die Auslastung (Ressourcenplanung) und zukünfitges Ergebnis.</back></card>
+<card grp='0' crt='734212'><front>Bruttogewinn des Auftragseinganges...</front><back>&lt;verbatim&gt;...ist Gewinn des Umsatzes von morgen!</back></card>
+<card grp='0' crt='734212'><front>Bruttogewinn (Handelsspanne, gross profit/margin)</front><back>&lt;verbatim&gt;Bruttogewinn = Auftragseingang - erwarterte Produktionskosten</back></card>
+<card grp='0' crt='734211'><front>Auftragseingang...</front><back>&lt;verbatim&gt;...heute ist der Umsatz von morgen!
+
+Kundenbestätigungen
+
+Anzahlungen
+
+Bankbürgschaften (Anzahlungen, Leistungen,...)
+
+</back></card>
 <card grp='0' crt='734211'><front>Geschäftslage bzw. KPIs</front><back>&lt;verbatim&gt;Finance Summary
 
 Marketing and Sales
@@ -178,7 +234,7 @@ Gesamtkostenverfahren = Umsatz - Gesamtkosten - Bestandsänderung</back></card>
 <card grp='0' crt='734211'><front>EBIT (Earnings before interest and taxes)</front><back>&lt;verbatim&gt;Begriff aus Erfolgsrechnung nach US-GAAP; bedeutet:
 
 &quot;Ergebnis vor Berücksichtigungen von Aufwendungen bzw. Erträgen aus Zinsen sowie Steuern&quot;</back></card>
-<card grp='0' crt='734211'><front>Kostenträger</front><back>Produktionsauftrag, auf den Kostenarten verrechnet werden
+<card grp='0' crt='734211'><front>Kostenträger</front><back>&lt;verbatim&gt;Produktionsauftrag, auf den Kostenarten verrechnet werden
 
 Vorkalkulation (Plankosten) bei Auftragseingang
 
@@ -199,15 +255,15 @@ Materialkosten
 Abschreibungen
 
 Sonstige Kosten (Reisekosten,...)&lt;/verbatim&gt;</back></card>
-<card grp='0' crt='734211'><front>Bilanzgewinn- bzw. Verlust</front><back>&lt;verbatim&gt; Veränderung des Eigenkapitals&lt;/verbatim&gt;</back></card>
+<card grp='0' crt='734211'><front>Bilanzgewinn- bzw. Verlust</front><back>&lt;verbatim&gt; Veränderung des Eigenkapitals</back></card>
 <card grp='0' crt='734211'><front>Außerordentliche Erträge</front><back>&lt;verbatim&gt;nicht mit gewöhnlicher Geschäftstätigkeit verbunden, z.B.:
 
 Sonderabschreibungen, Verkauf&lt;/verbatim&gt;</back></card>
-<card grp='0' crt='734211'><front>Finanzergebnis</front><back>&lt;verbatim&gt; Erträge und Aufwendungen von Kapitalanlagen und Finanzierungen (Wertpapiere, Zinsen,...)&lt;/verbatim&gt;</back></card>
-<card grp='0' crt='734211'><front>Betriebsergebnis (EBIT)</front><back>&lt;verbatim&gt;Erträge - Aufwendungen&lt;/verbatim&gt;
+<card grp='0' crt='734211'><front>Finanzergebnis</front><back>&lt;verbatim&gt; Erträge und Aufwendungen von Kapitalanlagen und Finanzierungen (Wertpapiere, Zinsen,...)</back></card>
+<card grp='0' crt='734211'><front>Betriebsergebnis (EBIT) ist...</front><back>&lt;verbatim&gt;...Erträge - Aufwendungen
 
 Anm.: Ermittlung über Umsatz- und Gesamtkostenverfahren</back></card>
-<card grp='0' crt='734211'><front>G&amp;V</front><back>&lt;verbatim&gt;Aufstellung der Erträge und Aufwendungen innerhalb einer Periode&lt;/verbatim&gt;</back></card>
+<card grp='0' crt='734211'><front>G&amp;V</front><back>&lt;verbatim&gt;Aufstellung der Erträge und Aufwendungen innerhalb einer Periode</back></card>
 <card grp='0' crt='734211' tags='Bilanz'><front>Bilanz</front><back>&lt;verbatim&gt;Vermögenslage (Aktiva) und Finanzlage (Passiva) zum Stichtag</back></card>
 <card grp='0' crt='734211'><front>Berichts-Arten</front><back>&lt;verbatim&gt;Externe Berichte:
 
@@ -267,6 +323,6 @@ Krisenmanager
 
 Ressourcenzuteiler
 
-Verhandslungsführer&lt;/verbatim&gt;</back></card>
+Verhandslungsführer</back></card>
 </category>
 </deck>
