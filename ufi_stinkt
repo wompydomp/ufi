@@ -157,6 +157,7 @@ Manager
 Eigentümer</back></card>
 </category>
 <category title='UFI_Vorlesung_2'>
+<card grp='0' crt='734212'><front>Kapitalrendite</front><back>&lt;embed type=&quot;image&quot; src=&quot;pics/Kapitalrendite.png&quot;/&gt;</back></card>
 <card grp='0' crt='734212'><front>Order Backlog...</front><back>&lt;verbatim&gt;ist der Verkaufswert aller Aufträge, die noch nicht abgerechnet sind, also noch nicht zu den Erlösen beigetragen haben. Der Begriff ist weitestgehend indentisch mit dem Auftragsbestand.&lt;/verbatim&gt;
 
 &lt;embed type=&quot;image&quot; src=&quot;pics/OrderBacklog.png&quot;/&gt;</back></card>
