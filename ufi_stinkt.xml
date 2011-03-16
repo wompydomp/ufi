@@ -428,7 +428,7 @@ Verhandslungsführer</back></card>
 			-Aus- und Weiterbildung
 	-Erfolgserfahrung durch Veränderung</back></card>
 </category>
-<category title='UFI_Vorlesung_4'>
+<category title='UFI_Vorlesung_5'>
 
 
 <card grp='0' crt='734212'><front>Merger</front><back>Verschmelzung von Unternehmen (Fusion)</back></card>
@@ -476,6 +476,31 @@ Fusion ist i.d.R. mit Restrukturierung verbunden</back></card>
 		- Zugewinn von Marktanteil bis hin zur Marktbereinigung
 - kein primäres Exitziel</back></card>
 <card grp='0' crt='734212'><front>Ablauf 1</front><back>- Auswahl des Zielunternehmens ("Screening" des "Targets")
-		- Ansprache der Führung/Eigentümer, eventuell mit Investmentbank oder eines M und A-Beraters</back></card>
-</category>
+		- Ansprache der Führung/Eigentümer, eventuell mit Investmentbank oder eines M und A-Beraters
+		- Unterzeichnung einer Geheimhaltungsvereinbarung (Confidentiality Agreement)
+		- Unterzeichnung einer Absichtserklärung - "letter of intent"(LOI)
+		</back></card>
+	
+		<card grp='0' crt='734212'><front>Ablauf 2</front><back>Due Diligence (DD): "gebotene Sorgfalt"
+		</back></card>
+		<card grp='0' crt='734212'><front>DD-Prüfung</front><back>- systematische Stärken/Schwächen-Analyse des Objektes
+				- Analyse der mit dem Kauf verbundenen Risiken
+				- fundierte Bewertung des Objektes (Bilanzen,Ressourcen..)
+				- Dealbreaker: Sachverhalte die dem Kauf entgegenstehen
+				- Einrichtung eines Datenraumes
+		- Durchführung durch Anwälte und Experten</back></card>
+<card grp='0' crt='734212'><front>Unternehmensbewertung - Substanzwertverfahren</front><back>Ermittlung durch Wertsumme der Aktive vermindert um Rückstellungen und Verbindlichkeiten</back></card>
+<card grp='0' crt='734212'><front>Unternehmensbewertung - Ertragswertverfahren</front><back>Discounted Cash-Flow-Verfahren:
+- zukünftige Zahlungsüberschüsse werden mithilfe von Kapitalkosten auf Bewertungsstichtag diskontiert</back></card>
+<card grp='0' crt='734212'><front>Unternehmensbewertung - einfachste Option?</front><back>Börsenwert</back></card>
+<card grp='0' crt='734212'><front>Discounted Cash-Flow Methode</front><back>
+		&lt;embed type=&quot;image&quot; src=&quot;pics/discountedcashflow.png&quot;/&gt;</back></card>
+
+<card grp='0' crt='734212'><front>Ablauf 3</front><back>- Endgültige Strukturierung der Transaktion ("Deal Design") unter Berücksichtigung der DD-Prüfung
+		- Bewertung und Preisverhandlung
+		- Vertragsabschluss ("Signing")
+		- Anmeldung oder Genehmigung der Transaktion bei oder durch die Wettbewerbsbehörde
+- Stichtag ("Closing") : Alle im Vertrag vereinbarten Bedingungen sind erfüllt</back></card>
+<card grp='0' crt='734212'><front></front><back></back></card>
+	</category>
 </deck>
