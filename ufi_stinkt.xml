@@ -427,6 +427,55 @@ Verhandslungsführer</back></card>
 			-Sicherheit vermitteln
 			-Aus- und Weiterbildung
 	-Erfolgserfahrung durch Veränderung</back></card>
-<card grp='0' crt='734212'><front></front><back></back></card>
+</category>
+<category title='UFI_Vorlesung_4'>
+
+
+<card grp='0' crt='734212'><front>Merger</front><back>Verschmelzung von Unternehmen (Fusion)</back></card>
+<card grp='0' crt='734212'><front>Acquisition</front><back>Unternehmenskauf</back></card>
+<card grp='0' crt='734212'><front>Zielsetzung Merger und Acquisition</front><back>-Stärkung der Marktposition
+		-Skaleneffekte
+		-Ergänzung des Portfolios und des Marktzugangs
+		-Synergien
+</back></card>
+<card grp='0' crt='734212'><front>Merger (Fusion)</front><back>Verschmelzung von:
+		-Firmennamen
+		-Organisation
+		-Kulturen
+		-Produkten(Überlappungen)
+		-Produktionen(Überlappungen)
+
+Fusion ist i.d.R. mit Restrukturierung verbunden</back></card>
+<card grp='0' crt='734212'><front>Akquisition - Share Deal</front><back>- Käufer erwirbt die Anteile der Gesellschaft (GmbH,AG)
+		- Alle Verträge der Gesellschaft bleiben unberührt
+		- Beherrschungsvertrag bei Tochtergesellschaften
+</back></card>
+<card grp='0' crt='734212'><front>Akquisition - Asset Deal</front><back>- Wirtschaftsgüter (Grundstücke,Gebäude..) werden einzeln übertragen
+		- Verträge MÜSSEN übertragen werden (Zustimmung erforderlich)
+		- Mitarbeiter müssen Übertragung zustimmen</back></card>
+
+<card grp='0' crt='734212'><front>Käufer 1</front><back>Venture (Risiko)-Capital-Gesellschaften:
+		-Finanzielle Mittel von institutionellen Anlegern (Bank..), aber auch Privatpersonen
+		- Ziel: zu gründende oder gerade erst gegründete Unternehmen in Branchen deren Lebenszyklus gerade beginnt
+		- Erträge nicht absehbar und mit hohem Risiko, aber auch hohe Rendite möglich
+
+		- VCG stellt zudem "Management-Know-How"
+- Kurz- bis mittelfristiger Exit</back></card>
+<card grp='0' crt='734212'><front>Käufer 2</front><back>Private Equitiy-Gesellschaft:
+		-Mittelbeschaffung wie bei VCG
+		- Ziel: Unternehmen mit günstigem Rendite-Risiko-Verhältnis; hohe, stabile Cashflows und etabliertem Markennamen
+		- keine größeren Ansprüche bzgl Neuinvestitionen, bzw. FuE
+- mittelfristiger Exit</back></card>
+<card grp='0' crt='734212'><front>Käufer 3</front><back>MBO:Management-Buy-Out
+- etablierte Unternehmen oder Teile werden oft gemeinsam mit PEG übernommen</back></card>
+<card grp='0' crt='734212'><front>Käufer 4</front><back>Strategische Investoren:
+		- eigene Mittel
+		- Ziele: nicht primär Rendite, sondern Zugriff auf Technologien und Entwicklung, Sicherung von Know-How und Experten
+		- Aufteilung von Risiken und Investitionen
+		- Zugang zu neuen Absatzmärkten
+		- Zugewinn von Marktanteil bis hin zur Marktbereinigung
+- kein primäres Exitziel</back></card>
+<card grp='0' crt='734212'><front>Ablauf 1</front><back>- Auswahl des Zielunternehmens ("Screening" des "Targets")
+		- Ansprache der Führung/Eigentümer, eventuell mit Investmentbank oder eines M und A-Beraters</back></card>
 </category>
 </deck>
