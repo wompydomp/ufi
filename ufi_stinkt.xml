@@ -156,6 +156,7 @@ Manager
 
 Eigentümer</back></card>
 </category>
+
 <category title='UFI_Vorlesung_2'>
 <card grp='0' crt='734212'><front>Kapitalrendite</front><back>&lt;embed type=&quot;image&quot; src=&quot;pics/Kapitalrendite.png&quot;/&gt;</back></card>
 <card grp='0' crt='734212'><front>Order Backlog...</front><back>&lt;verbatim&gt;ist der Verkaufswert aller Aufträge, die noch nicht abgerechnet sind, also noch nicht zu den Erlösen beigetragen haben. Der Begriff ist weitestgehend indentisch mit dem Auftragsbestand.&lt;/verbatim&gt;
@@ -326,5 +327,106 @@ Krisenmanager
 Ressourcenzuteiler
 
 Verhandslungsführer</back></card>
+</category>
+<category title='UFI_Vorlesung_4'>
+	<card grp='0' crt='734212'><front>Mitbestimmung</front><back>
+			Betriebsverfassungsgesetz, durch Betriebsrat ausgeübt
+	
+			Mitbestimmung auf Unternehmensebene durch Arbeitnehmervertreter im Aufsichtsorgan bei strategischen Entscheidungen
+
+			Organ der betrieblichen Mitbestimmung ist der Betriebsrat
+	</back></card>
+	<card grp='0' crt='734212'><front>Betriebsrat</front><back>
+			gewähltes Organ der Vertretung der Arbeitsnehmerinteressen
+			zur Wahrung der betrieblichen Mitwirkung und Mitbestimmung gegenüber dem Arbeitsgeber
+	ist Abzugrenzen von Unternehmensmitbestimmung durch Arbeitnehmervertreter in Aufsichtsräten von AGs</back></card>
+<card grp='0' crt='734212'><front>Betriebsrat 2</front><back>
+		werden in Betrieben mit mindestens 5 ständigen Arbeitnehmern gewählt
+
+	3 müssen davon wählbar sein
+	die Wahl obliegt der Initiative der Arbeitsnehmer
+	</back></card>
+<card grp='0' crt='734212'><front>eventuell Mitbestimmung in sozi. Angelegenheiten nochmal anschauen</front><back></back></card>
+<card grp='0' crt='734212'><front>Personalplanung</front><back>
+		Stragische Geschäftsplanugn -> Langfristiger Bedarf
+	Budgetplanung -> kurzfristiger Bedarf
+	Bedarf -> Ersatzbedarf durch altersbedingte Abgänge
+	Neubedarf
+	Arbeitszeitflexibilisierung
+	Stellenabbau
+	</back></card>
+	<card grp='0' crt='734212'><front>Arbeitszeitflexibilisierung</front><back>
+			Gleitzeit
+			Arbeitszeitkonten:
+			Mehr-/Minderarbeit im Rahmen der wöchentlichen Arbeitszeit führt zu Zeitguthaben/-schuld(ca +-100h)
+			Guthaben->Urlaub
+			Schuld->Mehrarbeit
+
+			Kurzarbeit:
+			reduzierte Arbeitszeit und Entlohnung, Kompensation durch Kurzarbeitgeld des Staates
+
+			Teilzeitarbeit
+
+	</back></card>
+	<card grp='0' crt='734212'><front>Restrukturierung</front><back>
+			Restrukturierungsbedarf durch Rückgang des Geschäftvolumens oder Schließung einer Geschäftsaktivität
+	
+			Maßnahmen sind:
+			Aufhebungsverträge
+			Betriebsbedingte Kündigungen
+			Beschäftigungsgesellschaft
+	</back></card>
+	<card grp='0' crt='734212'><front>Aufhebungsvertrag</front><back>
+			Vermeidung einer langwierigen betriebsbedingten Kündigung und damit verbundenen Unwägbarkeiten
+	Einvernehmliche Beendigung des Arbeitsverhältnisses durch Abfindung (50.000 - 500.000 €)</back></card>
+<card grp='0' crt='734212'><front>Betriebsbedingte Kündigung</front><back>
+		setzt betriebsbedingten Kündigungsgrund voraus
+	innerbetriebliche Umstände: Rationalisierung..
+	ausserbetriebliche Umstände: Auftragsmangel..</back></card>
+<card grp='0' crt='734212'><front>Stellenbeschreibung</front><back>
+		Anforderungsprofile
+		Grundlage für Personalbeschaffung und Vergütung</back></card>
+<card grp='0' crt='734212'><front>Vergütung</front><back>
+		Zeitlohn
+	Leistungslohn(Prämien,Akkord)
+	Festgehalt
+	Boni (Prämie,Tantieme)
+	Incentives (Aktienoptionen,Mitarbeiterbeteiligung)
+	</back></card>
+	<card grp='0' crt='734212'><front>Neueinstellung</front><back>
+			Zeugnisse,Lebenslauf
+	Persönliches Gespräch
+	Assessment</back></card>
+
+<card grp='0' crt='734212'><front>Laufende Beurteilung</front><back>
+		Mitarbeiterbefragung
+	Assessment,360° Feedback
+	Personalgespräch (i.d.R. 1x Pro Jahr)
+	-Zielerreichung des abgelaufenen Jahres
+	-Stärken und Schwächen
+	-Weiterbildungsbedarf
+	-Berufliche Entwicklung
+	-Neue Ziele für lfd. Jahr
+	-Note</back></card>
+<card grp='0' crt='734212'><front>Personalbeschaffung</front><back>
+		Stellenausschreibung (Budgetplanung!)
+	Suche über Anzeige
+	Suche über Personalberater
+	Suche mit Netzwerk der Mitarbeiter
+	Kontakte mit Hochschule
+	Auswahl durch verantwortliche Führungskraft
+	</back></card>
+	<card grp='0' crt='734212'><front>Change Management</front><back>
+			Märkte,Produkte,Prozesse und Technologien ändern sich
+			Abläufe und Organisation müssen sich anpassen
+			Probleme:
+			-Unsicherheit
+			-Erfahrungen werden nutzlos
+			-Neue Kenntnisse und Fertigkeiten lernen
+			Lösung:
+			-Sicherheit vermitteln
+			-Aus- und Weiterbildung
+	-Erfolgserfahrung durch Veränderung</back></card>
+<card grp='0' crt='734212'><front></front><back></back></card>
 </category>
 </deck>
